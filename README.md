@@ -143,4 +143,5 @@ port-scanner-cpp/
 
 MIT. Veja [LICENSE](LICENSE).
 
-<div align="center">Feito com ☕ e C++ por <a href="https://github.com/SEU-USUARIO">[wx](https://github.com/kxxjkj)</a></div>
+<div align="center">Feito com ☕ e C++ por <a href="https://github.com">wx</a>
+
