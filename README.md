@@ -10,7 +10,7 @@
 ![Sanitizers](https://img.shields.io/badge/TSan%20%7C%20ASan-clean-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-![Demonstração](assets/demo.png)
+![Demonstração](assets/demo-c.png)
 
 </div>
 
@@ -119,7 +119,7 @@ PORTA     SERVIÇO         BANNER
 port-scanner-cpp/
 ├── include/   # headers (.hpp)
 ├── src/       # implementação (.cpp)
-├── assets/    # demo.png
+├── assets/    # demo-c.png
 ├── Makefile
 └── README.md
 ```
@@ -143,4 +143,4 @@ port-scanner-cpp/
 
 MIT. Veja [LICENSE](LICENSE).
 
-<div align="center">Feito com ☕ e C++ por <a href="https://github.com/SEU-USUARIO">Seu Nome</a></div>
+<div align="center">Feito com ☕ e C++ por <a href="https://github.com/SEU-USUARIO">[wx](https://github.com/kxxjkj)</a></div>
