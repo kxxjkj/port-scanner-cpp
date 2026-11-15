@@ -1,0 +1,4 @@
+build/
+portscan
+*.o
+*.d
